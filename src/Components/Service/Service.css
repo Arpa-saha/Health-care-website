@@ -1,0 +1,15 @@
+.cart img{
+    width: 350px;
+    height: 200px;
+    border-radius: 10px;
+}
+.backgroundColor{
+    background-color: lightskyblue;
+    border: 2px solid chartreuse;
+    border-radius: 15px;
+   
+}
+.cart {
+    height: 350px;
+    overflow: hidden;
+}
